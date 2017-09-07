@@ -12,5 +12,9 @@
   "devDependencies": {
     "jest": "^21.0.1",
     "supertest": "^3.0.0"
+  },
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-router": "^7.2.1"
   }
 }
