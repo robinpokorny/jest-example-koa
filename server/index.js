@@ -7,7 +7,13 @@ const PORT = process.env.PORT || 8081;
 
 router.get("/", async ctx => {
   ctx.body = {
-    data: "Sending some JSON"
+    data: "Sending some JSON",
+    person: {
+      name: "Valentino",
+      lastname: "Gagliardi",
+      role: "Web Developer",
+      age: 32
+    }
   };
 });
 
