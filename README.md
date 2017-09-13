@@ -1,6 +1,8 @@
 # jest-koa2
 > A clear and concise introduction to testing Koa with Jest and Supertest
 
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
+
 Companion repo for [A clear and concise introduction to testing Koa with Jest and Supertest](https://www.valentinog.com/blog/testing-api-koa-jest/)
 
 ## Test
