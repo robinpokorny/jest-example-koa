@@ -1,4 +1,6 @@
 # jest-example-koa
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/robinpokorny/jest-example-koa.svg)](https://greenkeeper.io/)
 > An example repo for a talk and an article
 
 📖 [Async testing Koa with Jest](https://medium.com/@robinpokorny/async-testing-koa-with-jest-1b6e84521b71)
