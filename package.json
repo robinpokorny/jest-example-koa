@@ -1,16 +1,11 @@
 {
-  "name": "jest-koa2",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "jest-example-koa",
   "scripts": {
     "test": "jest"
   },
   "jest": {
     "testEnvironment": "node"
   },
-  "keywords": [],
-  "author": "",
   "license": "MIT",
   "devDependencies": {
     "jest": "^21.0.1",
