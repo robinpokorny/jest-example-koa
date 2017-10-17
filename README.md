@@ -1,30 +1,22 @@
-# jest-koa2
-> A clear and concise introduction to testing Koa with Jest and Supertest
+# jest-example-koa
+> An example repo for a talk and an article
 
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
+📖 [Async testing Koa with Jest](https://medium.com/@robinpokorny/async-testing-koa-with-jest-1b6e84521b71)
+📹 [Node.js Meetup Berlin 17 Oct 2017](https://www.meetup.com/preview/Node-js-Meetup-Berlin/events/241810015
+(video soon)
 
-Companion repo for [A clear and concise introduction to testing Koa with Jest and Supertest](https://www.valentinog.com/blog/testing-api-koa-jest/)
-
-## Test
-
-Clone the repo:
+## How to run
 
 ```bash
-git clone git@github.com:valentinogagliardi/jest-koa2.git
+npm install
+npm test -- middleware/
+npm test -- api/
 ```
 
-Install the dependencies:
+Try running the tests also with `--watch`.
 
-```bash
-cd jest-koa2 && npm i
-```
+## Licence
 
-Run all the tests with:
+MIT
 
-```bash
-npm test
-```
-
-## Meta
-
-Valentino Gagliardi - [valentinog.com](https://www.valentinog.com) - valentino@valentinog.com
+See [api/LICENSE](api/LICENSE).

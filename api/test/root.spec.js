@@ -28,7 +28,7 @@ describe('root route', () => {
     );
   });
 
-  test('with object equality', async () => {
+  test('with snapshots', async () => {
     const response = await request(app.callback()).get('/');
 
     expect(response.body).toMatchSnapshot();
