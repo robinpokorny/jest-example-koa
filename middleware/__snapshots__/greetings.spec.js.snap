@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`greetings works complete 1`] = `
+Object {
+  "body": "Hello.",
+  "response": Object {
+    "set": [Function],
+  },
+}
+`;
+
+exports[`greetings works complete 2`] = `
+Object {
+  "body": "Hello. Remember to subscribe.",
+  "response": Object {
+    "set": [Function],
+  },
+}
+`;
+
+exports[`greetings works complete 3`] = `
+Array [
+  Array [
+    "Etag",
+    1234,
+  ],
+]
+`;

@@ -19,4 +19,4 @@ Try running the tests also with `--watch`.
 
 MIT
 
-See [api/LICENSE](api/LICENSE).
+See [api/LICENSE](api/LICENSE) and [middleware/LICENSE](middleware/LICENSE).
