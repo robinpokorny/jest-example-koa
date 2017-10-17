@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`root route with object equality 1`] = `
+Object {
+  "data": "Sending some JSON",
+  "person": Object {
+    "age": 42,
+    "lastname": "Vaněk",
+    "name": "Ferdinand",
+    "role": "Brewery worker",
+  },
+}
+`;
