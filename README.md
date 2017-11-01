@@ -1,4 +1,5 @@
 # jest-example-koa
+[![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
 [![Build Status](https://semaphoreci.com/api/v1/robinpokorny/jest-example-koa/branches/master/badge.svg)](https://semaphoreci.com/robinpokorny/jest-example-koa)
 [![license](https://img.shields.io/npm/l/transform-props-with.svg?style=flat-square)](#license)
 [![git3moji](https://img.shields.io/badge/git3moji-%E2%9A%A1%EF%B8%8F%F0%9F%90%9B%F0%9F%93%BA%F0%9F%91%AE%F0%9F%94%A4-fffad8.svg?style=flat-square)](https://robinpokorny.github.io/git3moji/)
